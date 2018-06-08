@@ -3,7 +3,7 @@ This program is neither the fastest nor memory efficient.It is just a simple imp
 
 The program uses Canonical Huffman Encoding to generate the compressed output file(Output.txt).
 # Tutorial
-1.Run the Code
+1.Run the Code(FileCompression.java)
 
 2.Select the source file and open it.
 
