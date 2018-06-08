@@ -1,5 +1,5 @@
 # File-Compressor
-This program is neither the fastest nor memory efficient.It is just a simple implementation of Huffman coding in java on Text files(*.txt).
+This program is neither the fastest nor very efficient memory wise.It is just a simple implementation of Huffman coding in java on Text files(*.txt).
 
 The program uses Canonical Huffman Encoding to generate the compressed output file(Output.txt).
 # Tutorial
